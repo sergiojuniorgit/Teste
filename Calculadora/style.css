@@ -1,0 +1,25 @@
+h2{
+    text-align: center;
+    color: green;
+}
+
+div#res{
+    position: relative;
+    width: 100%;
+    padding-bottom: 46.25%;
+
+    place-self: center;
+    width: 50vw;
+    margin: 1rem;
+    padding: 3rem;
+    border-radius: 1rem;
+    box-shadow:  0px 4px 0px black;
+    background-color: red;
+
+    
+}
+
+.calculadora{
+    text-align: center;
+    
+}
